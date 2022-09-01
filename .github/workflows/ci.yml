@@ -14,5 +14,5 @@ jobs:
       - run: pip install --upgrade pip
       - run: pip install mkdocs-material
       - run: pip install mkdocs-jupyter     
-      - run: mkdocs gh-deploy -force
+      - run: mkdocs gh-deploy --force
     
