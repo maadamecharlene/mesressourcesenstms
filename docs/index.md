@@ -18,7 +18,7 @@ En construction...
 
 __S'épanouir à l'école__
 
-{=="Une transformation profonde"==} : L'orientation profesionnelle souvent pas défaut sans consentement du jeune. Plus de décrocheurs scolaire au lycée professionnel. Accès difficile à l'emploi. *__Une voie par choix et une voie de choix__*
+__Une transformation profonde__ : L'orientation profesionnelle souvent pas défaut sans consentement du jeune. Plus de décrocheurs scolaire au lycée professionnel. Accès difficile à l'emploi. *__Une voie par choix et une voie de choix__*
 
 Augmenter les temps de stage d'au moins 50%
 
