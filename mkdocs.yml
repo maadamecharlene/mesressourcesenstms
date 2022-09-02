@@ -110,7 +110,7 @@ plugins:
 ### Configuration d'une licence
 # Information de droit d'auteur qui s'affiche dans le pied de page pour toutes les pages du site
 copyright: >
-    Document partagé par <a href="https://github.com/ericECmorlaix" target="_blank">Eric MADEC</a>
+    Document partagé par <a href="https://github.com/maadamecharlene" target="_blank">Charlene CHARTIER</a>
     &copy; 2021 sous licence <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.fr" target="_blank">CC BY-NC-SA 4.0</a>
     <br> Illustrations par <a href="https://undraw.co/" target="_blank">UnDraw</a>
 
