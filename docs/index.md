@@ -12,7 +12,7 @@ En construction...
 ### La réforme du lycée pro, on en parle ?
 
 Les nouveautés de 2022
-![http://maadamecharlene.github.io/mesressourcesenstms/docs/images/pdt_lycee_pro.jpg]([https://www.lemonde.fr/societe/live/2022/08/25/emmanuel-macron-prononce-un-discours-de-rentree-devant-les-recteurs-d-academie_6138980_3224.html]) "Vers le site "Le Monde")
+![https://maadamecharlene.github.io/mesressourcesenstms/images/pdt_lycee_pro.jpg]([https://www.lemonde.fr/societe/live/2022/08/25/emmanuel-macron-prononce-un-discours-de-rentree-devant-les-recteurs-d-academie_6138980_3224.html]) "Vers le site "Le Monde")
 
 Celle amorcée en 2018, c'est par ici :
 [Juste là ](https://eduscol.education.fr/2224/transformer-le-lycee-professionnel)
@@ -24,4 +24,4 @@ Un lien :
 
 Le journal de l'animation - septembre 2022 :
 
-![Le journal de l'animation de septembre 2022](https://maadamecharlene.github.io/mesressourcesenstsms/docs/images/jda_sept_2022.jpg)
+![Le journal de l'animation de septembre 2022](https://maadamecharlene.github.io/mesressourcesenstms/images/jda_sept_2022.jpg "couverture")
