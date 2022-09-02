@@ -1,23 +1,26 @@
-Ceci est la page d'accueil d'un site de base généré avec le framework MkDocs et le thème Material.
+# La page d'accueil
 
-> Pour voir le code MarkDown sous jacent, cliquer sur le crayon en haut à droite.
+Bienvenue
 
-# Voici un titre de niveau 1
-## Et voici un titre de niveau 2
-Ceci est un paragraphe.  
-Avec un retour à la ligne sans saut de ligne.
+> Enseignante en filière médico-sociale, je partage mes ressources !
 
-Et avec un retour à la ligne avec saut de ligne.
+## Les actualités sur le site
 
-## Un lien :
-Source pour [mkdocs-material](https://squidfunk.github.io/mkdocs-material/)
+J'apprends à créer un site web ! 
+En construction...
 
-## Une image :
-![illustration mkdocs-material](https://squidfunk.github.io/mkdocs-material/assets/images/illustration.png)
+### La réforme du lycée pro, on en parle ?
 
-## Une liste :
-- Toto ;
-- Titi ;
-- Tata...
+Les nouveautés de 2022
+![ ] (https://www.lemonde.fr/societe/live/2022/08/25/emmanuel-macron-prononce-un-discours-de-rentree-devant-les-recteurs-d-academie_6138980_3224.html)
 
-> Libre à vous de personaliser ce site avec l'aide de ce [tutoriel pour MkDocs](https://github.com/ericECmorlaix/adn-Tutoriel_site_web)...
+Celle amorcée en 2018, c'est par ici :
+[Juste là ](https://eduscol.education.fr/2224/transformer-le-lycee-professionnel)
+
+## Les actualités de l'animation
+
+Un lien :
+Source pour [Le Journal de l'animation](https://www.jdanimation.fr/))
+
+Le journal de l'animation - septembre 2022 :
+![illustration mkdocs-material]
