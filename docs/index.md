@@ -24,4 +24,4 @@ Un lien :
 
 Le journal de l'animation - septembre 2022 :
 
-![Le journal de l'animation de septembre 2022](https://maadamecharlene.github.io/mesressourcesenstsms/docs/images/jda_sept_2022.jpg "Couverture")
+![Le journal de l'animation de septembre 2022](https://maadamecharlene.github.io/mesressourcesenstsms/docs/images/jda_sept_2022.jpg)
