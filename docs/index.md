@@ -24,7 +24,7 @@ Augmenter les temps de stage d'au moins 50%
 
 Source : [Le Monde](https://www.lemonde.fr/societe/live/2022/08/25/emmanuel-macron-prononce-un-discours-de-rentree-devant-les-recteurs-d-academie_6138980_3224.html)
 
-### La réforme amorcée 2018, c'est par ici :
+### La réforme de 2018
 [Juste là ](https://eduscol.education.fr/2224/transformer-le-lycee-professionnel)
 
 ## Les actualités de l'animation
