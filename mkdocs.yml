@@ -43,14 +43,14 @@ theme:
     # Palettes de couleurs jour/nuit, cf : https://squidfunk.github.io/mkdocs-material/setup/changing-the-colors/
     palette: 
       - scheme: default # nom du thème clair
-        primary: lime # couleur primaire des titres, des liens, ..., à prendre dans la liste
-        accent: amber # couleur d'accentuation au survol des boutons, desliens, ..., à prendre dans la liste
+        primary: indigo # couleur primaire des titres, des liens, ..., à prendre dans la liste
+        accent: deep purple # couleur d'accentuation au survol des boutons, desliens, ..., à prendre dans la liste
         toggle: # définition du bouton pour switcher de palette
           icon: material/weather-sunny # apparence
           name: Basculer en mode sombre # message
       - scheme: slate # nom du thème sombre
-        primary: indigo
-        accent: deep purple
+        primary: blue grey
+        accent: indigo
         toggle:
           icon: material/weather-night
           name: Basculer en mode clair
