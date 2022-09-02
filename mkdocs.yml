@@ -5,16 +5,16 @@ site_url: https://maadamecharlene.github.io/ressourcesstms/ # Adresse web princi
 
 ### Configuration du dépôt
 # Ajoute en haut à droite de chaque page du site, icône, nom et lien vers le dépot GitHub du projet.
-repo_url: https://github.com/ericECmorlaix/base_mkdocs_material
-repo_name: 'base_mkdocs_material' # Personnalise le nom générique "GitHub" donné par défaut au lien vers le dépot GitHub du projet.
+repo_url: https://github.com/maadamecharlene/ressources_en_stms
+repo_name: 'ressources_en_stms' # Personnalise le nom générique "GitHub" donné par défaut au lien vers le dépot GitHub du projet.
 edit_uri: edit/main/docs/ # Complément au chemin pour aller depuis `repo_url:` jusqu'au répertoire `docs` ;
 # Ce qui permet avec MkDocs-Material d'ajouter un bouton (crayon) d'édition du code source.md d'une page du site depuis le navigateur
 # (edit => édition avec connexion | blob, tree => lecture anonyme)
 
 ### Configuration de métadonnées
 # Métadonnées de description <300 caratères, et d'auteur pour toutes les pages du site 
-site_description: Exemple de site de base pour MkDocs avec le thème Material à personaliser
-site_author: "Eric MADEC"
+site_description: Partage des ressources utilisées et créées en lycée pro.
+site_author: " Maadame Charlene "
 
 ### Configuration de la stucture de navigation
 # Dossier source, chemin relatif au fichier mkdocs.yml
@@ -22,7 +22,11 @@ docs_dir: docs
 # Structure du menu principal de navigation, chemins relatifs au dossier docs_dir
 nav: 
   - La page d'accueil : index.md
-  - Un notebook jupyter : Notebook.ipynb
+  - Les règlementations : reglementation.md
+  - Bac pro Animation EPA : bacproanim.md
+  - Chef d'oeuvre : chefdoeuvre.md
+  - PSE : pse.md
+  - Ateliers : atelier.md
   # Référencer vos autres pages ci-dessus...
 
 # Configuration du thème https://squidfunk.github.io/mkdocs-material/creating-your-site/#configuration
@@ -45,8 +49,8 @@ theme:
           icon: material/weather-sunny # apparence
           name: Basculer en mode sombre # message
       - scheme: slate # nom du thème sombre
-        primary: amber
-        accent: lime
+        primary: indigo
+        accent: deep purple
         toggle:
           icon: material/weather-night
           name: Basculer en mode clair
@@ -115,14 +119,17 @@ copyright: >
 extra:
   social: # A personaliser...
     - icon: fontawesome/solid/paper-plane
-      link: mailto:eric.madec@ecmorlaix.fr
+      link: mailto:charlene.chartier@ecmorlaix.fr
       name: Pour toute question, suggestion ou commentaire, écrire à l'auteur
     - icon: fontawesome/brands/github
-      link: https://github.com/ericECmorlaix/base_mkdocs_material
+      link: https://github.com/maadamecharlene/ressources_en_stms
       name: dépôt github
     - icon: fontawesome/solid/school
       link: https://www.ecmorlaix.fr/nos-etablissements/lycee-notre-dame-du-mur/
       name: Lycée Notre Dame du Mur
+    - icon: fontawesome/brands/instagram
+      link: https://www.instagram.com/maadamecharlene/
+      name: maadamecharlene
 
 # Configuration de javascripts complémentaires
 extra_javascript:
