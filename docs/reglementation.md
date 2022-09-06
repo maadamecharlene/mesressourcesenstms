@@ -2,7 +2,9 @@
 
 ## Le bac pro
 
+Vous trouverez sur le site d'eduscol une présentation de [la dernière](https://eduscol.education.fr/document/1896/download?attachment) grosse réforme du lycée pro. 
 
+Cette réforme permet de remettre le lycée pro en lien avec la filière professionnelle de l'élève. Donner du sens aux enseignements en lien avec le domaine choisit, réaliser des applications concrètes.
 
 ## Le bac ASSP
 
