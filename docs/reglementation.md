@@ -18,8 +18,36 @@ Aux éditions Nathan, vous trouverez un manuel complet, pour la classe de second
 
 Le référentiel du bac pro Animation, au format PDF, est disponible [ici](https://sbssa.dis.ac-guyane.fr/IMG/pdf/referentiel_bcp_animation-2019.pdf)
 
-Depuis sa création en 2019, le bac pro animation voit fleurir de multiples arrêtés pour faire valoriser le bac dans le secteur concerné.
+Depuis sa création en 2019, le bac pro animation voit fleurir de multiples arrêtés pour faire valoriser le bac dans le secteur concerné, pour la création de l'UF2S (Unité Facultative dans le Secteur Sportif).
 
+### Le bac pro Animation
 
+Le 3 juillet 2020, l'arrêté [MENV2014633A](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042079829/), permet de rajouter à la liste des diplômes reconnaissant le métier d'animateur, le bac pro Animation Enfance Personnes Agées.
+
+### L'unité facultative Secteur Sportif
+[L'arrêté du 8 juillet 2021](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043799936) créant l'unité professionnelle facultative « secteur sportif » pour les bac professionnels
+  - animation enfance et personnes âgées ;
+  - assistance à la gestion des organisations et de leurs activités ;
+  - métiers de l'accueil ;
+  - métiers de la sécurité ;
+  - métiers du commerce et de la vente,
+  - et portant équivalences entre le baccalauréat professionnel Animation EPA et le brevet professionnel de la jeunesse, de l'éducation populaire et du sport (uniquement Animation Sociale et Loisirs Pour Tous) de droit entre les modules 1, 2 et 4
+  - et portant équivalences entre les autres bac pro et les BPJEPS précédemment citées lors de la validation de l'UF2S.
+
+[L'arrêté du 20 janvier 2022](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000045294336) modifie l'arrêté du 8 juillet 2021 en allongeant la liste des bac pro susceptibles de valider les modules 1 et 2 des BPJEPS Animation Sociale et Loisirs Pour Tous. Les bacs pro concernés sont :
+   * accompagnement, soins et services à la personne ;
+   * métiers de l'électricité et de ses environnements connectés ;
+   * systèmes numériques, option A sûreté et sécurité des infrastructures, option B audiovisuels, réseau et équipement domestiques et option C réseaux informatiques et systèmes communicants ;
+   * installateur en chauffage, climatisation et énergies renouvelables ;
+   * logistique ;
+   * maintenance et efficacité énergétique ;
+   * métiers du froid et des énergies renouvelables ;
+   * organisation de transport de marchandises. 
+
+Il est aussi à présent possible de faire valider l'UF2S sur les trois ans du bac pro contre sur les deux ans lors de l'arrêté de 2021.
+
+Le 14 janvier 2022 a aussi été créé une formation MCE2S permettant de valider les modules 3 et 4 des BPJEPS Animation Sociale et Loisirs Pour Tous. Vous la trouverez au [journal officiel](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000045113586).
 
 ## Le CAP AEPE
+
+Le référentiel du CAP AEPE est consultable au format pdf [ici](https://eduscol.education.fr/referentiels-professionnels/cap_accomp_educ/Annexes_CAP_AEPE.pdf)
